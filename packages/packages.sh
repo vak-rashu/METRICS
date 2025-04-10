@@ -12,7 +12,7 @@ source "$VENV_NAME/bin/activate"
 
 echo " Installing packages..."
 pip install --upgrade pip
-pip install psutil matplotlib prettytable
+pip install psutil matplotlib prettytable numpy
 
 echo "Installation complete."
 
