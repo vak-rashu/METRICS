@@ -1,5 +1,4 @@
 # METRICS: STREAMLINE YOUR SYSTEM INSIGHTS
-https://github.com/vak-rashu/METRICS/edit/main/README.md#key-highlights
 ### INTRODUCTION
 
 **METRICS** is a lightweight, user-friendly, CLI-based system monitoring tool designed to provide clear and accessible insights into system performance.
