@@ -2,18 +2,20 @@
 
 ### INTRODUCTION
 
-<b>**METRICS**</b> is a lightweight and easy to use, CLI-based system monitoring application that helps in keeping up with system insights.
+METRICS** is a lightweight, user-friendly, CLI-based system monitoring tool designed to provide clear and accessible insights into system performance.
 
-- While using system such as WSL or even just a small server, we need to rely on either traditional options or to Node Exporter, Grafana
-  or Prometheus, which again requires some prior learning of how to use it and
-  also gets somewhere complex to use.
+While working with environments like WSL or lightweight servers, traditional monitoring solutions—or more advanced stacks like Node Exporter, Prometheus, and Grafana—can feel heavy, complex, or require a steep learning curve. **METRICS** addresses this by offering a simple yet powerful alternative that’s easy to set up and maintain.
+
+### Key Highlights:
+
+- **Lightweight & Minimal Setup:** No complex configurations or dependencies.
   
-- It is lightweight, easy to maintain.
+- **Clear Visualizations:** Offers resource insights through tables, concise text output, and simple CLI-based graphs.
   
-- Provides different formats of visualisation for each types of resources by using tables, simple text and graphs for clearer understanding.
+- **Beginner-Friendly:** Intuitive to use without sacrificing functionality.
   
 
-Hence, METRICS is a go-to solution for a maintainable and ligtweight system monitoring.
+Whether you're managing a small server or working within WSL, **METRICS** is your go-to tool for efficient, maintainable system monitoring—without the bloat.
 
 ### How to download it?
 
@@ -47,4 +49,4 @@ source packages.sh
   ```
   
 
-Now your METRICS CLI will start working and you can start tracking your system resources.
+Now your METRICS CLI will start working and you can start tracking your system resources. 🌟
