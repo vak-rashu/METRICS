@@ -31,7 +31,7 @@ cd METRICS
 
            `git clone https://github.com/vak-rashu/METRICS.git`
 
-3. Then follow the steps after doing the git clone:
+3. After doing the git clone, follow the given steps:
 
 ```bash
 cd METRICS
@@ -39,9 +39,9 @@ cd packages
 source packages.sh
 ```
 
-        This will activate the virtual environment and will install the necessary pip requirements.
+This will activate the virtual environment and will install the necessary pip requirements.
 
-4. Now go to the main directory by typing `cd ..` and run the following commands:
+4. Now go to the parent directory by typing `cd ..` and run the following commands:
   
   ```bash
   source metrics_cli.sh
