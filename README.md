@@ -49,7 +49,7 @@ This will activate the virtual environment and will install the necessary pip re
   
 
 Now your METRICS CLI will start working and you can start tracking your system resources. 🌟
-
+<hr></hr>
 
 ### Important Note:
 
