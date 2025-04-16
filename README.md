@@ -49,3 +49,19 @@ This will activate the virtual environment and will install the necessary pip re
   
 
 Now your METRICS CLI will start working and you can start tracking your system resources. 🌟
+
+
+### Important Note:
+
+1. Make sure you have python3 downloaded, if not download it from here:
+  
+  ```bash
+  sudo apt update
+  sudo apt install python3
+  ```
+  
+2. Make sure you have required setup downloaded for the graphs to run smoothly, if not run the following command:
+  
+  ```bash
+   sudo apt-get install tcl-dev tk-dev python3-tk
+  ```
