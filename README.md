@@ -2,7 +2,7 @@
 
 ### INTRODUCTION
 
-METRICS** is a lightweight, user-friendly, CLI-based system monitoring tool designed to provide clear and accessible insights into system performance.
+**METRICS** is a lightweight, user-friendly, CLI-based system monitoring tool designed to provide clear and accessible insights into system performance.
 
 While working with environments like WSL or lightweight servers, traditional monitoring solutions—or more advanced stacks like Node Exporter, Prometheus, and Grafana—can feel heavy, complex, or require a steep learning curve. **METRICS** addresses this by offering a simple yet powerful alternative that’s easy to set up and maintain.
 
