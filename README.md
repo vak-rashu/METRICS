@@ -1,5 +1,5 @@
 # METRICS: STREAMLINE YOUR SYSTEM INSIGHTS
-
+https://github.com/vak-rashu/METRICS/edit/main/README.md#key-highlights
 ### INTRODUCTION
 
 **METRICS** is a lightweight, user-friendly, CLI-based system monitoring tool designed to provide clear and accessible insights into system performance.
@@ -42,7 +42,7 @@ source packages.sh
 
         This will activate the virtual environment and will install the necessary pip requirements.
 
-4. Now go to the main directory by typing `cd ..` and runt he following commands:
+4. Now go to the main directory by typing `cd ..` and run the following commands:
   
   ```bash
   source metrics_cli.sh
