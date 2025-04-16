@@ -40,7 +40,7 @@ cd packages
 source packages.sh
 ```
 
-        This will activate the virtual environment and will install the necessary pip         requirements.
+        This will activate the virtual environment and will install the necessary pip requirements.
 
 4. Now go to the main directory by typing `cd ..` and runt he following commands:
   
