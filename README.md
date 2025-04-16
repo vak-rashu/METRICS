@@ -16,7 +16,7 @@ While working with environments like WSL or lightweight servers, traditional mon
 
 Whether you're managing a small server or working within WSL, **METRICS** is your go-to tool for efficient, maintainable system monitoring—without the bloat.
 
-### How to download it?
+### How to run it?
 
 To get METRICS in your system, you need to follow the given steps:
 
