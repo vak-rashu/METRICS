@@ -1,4 +1,4 @@
-[This project has a lot of imrpvements needed to be make. Kindly use it with care.]
+[This project has a requires lot of improvements.]
 
 
 # METRICS: STREAMLINE YOUR SYSTEM INSIGHTS
